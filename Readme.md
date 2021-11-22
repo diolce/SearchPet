@@ -14,4 +14,6 @@ La decodificacion de objetos prepara el objeto para almacenarlo de forma persist
 Se usa realm para almacenar el token bearer
 
 
-![](name-of-giphy.gif)
+![](first.gif)
+
+![](second.gif)
